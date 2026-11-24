@@ -2,6 +2,11 @@
     "name": "lokus/servercheck",
     "type": "library",
     "license": "MIT",
+    "keywords": ["server", "check", "cpu", "ram"],
+    "homepage": "https://github.com/Lokusok/lokus-servercheck",
+    "require": {
+        "php": ">=8.2"
+    },
     "autoload": {
         "psr-4": {
             "Lokus\\ServerCheck\\": "src/"

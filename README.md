@@ -1,5 +1,7 @@
 # Library to check server load
 
+Installation: `composer require lokus/servercheck`
+
 Usage:
 
 ```php
