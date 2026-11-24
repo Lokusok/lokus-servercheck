@@ -1,5 +1,6 @@
 {
     "name": "lokus/servercheck",
+    "description": "Check server health",
     "type": "library",
     "license": "MIT",
     "keywords": ["server", "check", "cpu", "ram"],
