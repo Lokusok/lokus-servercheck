@@ -1,0 +1,10 @@
+{
+    "name": "lokus/servercheck",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lokus\\ServerCheck\\": "src/"
+        }
+    }
+}
